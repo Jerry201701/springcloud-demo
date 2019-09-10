@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff94dd61-b882-4fed-8c88-50b3e926cb8a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kitty-admin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/kitty-admin/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kitty-admin/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/kitty-admin/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kitty-config/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/kitty-config/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kitty-config/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/kitty-config/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ff94dd61-b882-4fed-8c88-50b3e926cb8a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/kitty-consumer/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -80,8 +71,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/kitty-config/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-380">
-              <caret line="10" column="68" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
+            <state relative-caret-position="-135">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -102,7 +93,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-3" />
     <option name="y" value="6" />
     <option name="width" value="1347" />
@@ -180,19 +171,19 @@
       <option name="presentableId" value="Default" />
       <updated>1568082601271</updated>
       <workItem from="1568082603712" duration="3146000" />
-      <workItem from="1568095233761" duration="1669000" />
+      <workItem from="1568095233761" duration="2313000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4815000" />
+    <option name="totallyTimeSpent" value="5459000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.37590945" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2392886" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.24959612" />
       <window_info id="Palette&#9;" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -212,7 +203,7 @@
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32954547" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.328125" />
-      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" visible="true" weight="0.36589697" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" visible="true" weight="0.053285968" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" />
       <window_info anchor="right" id="Maven" order="0" weight="0.32928804" />
       <window_info anchor="right" id="Database" order="1" />
@@ -262,10 +253,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/kitty-consul/安装说明.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/kitty-config/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-380">
-          <caret line="10" column="68" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
+        <state relative-caret-position="-135">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>
