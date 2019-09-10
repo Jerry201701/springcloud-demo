@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-3" />
+    <option name="y" value="6" />
+    <option name="width" value="1347" />
+    <option name="height" value="690" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-cloud-demo" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.KittyConsumerApplication">
+    <configuration name="KittyAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kitty-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.kitty.admin.KittyAdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KittyBackupApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kitty-backup" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.kitty.backup.KittyBackupApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KittyConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kitty-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.kitty.config.KittyConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KittyConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kitty-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.kitty.consumer.KittyConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KittyHystrixApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kitty-hystrix" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.kitty.hystrix.KittyHystrixApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KittyMonitorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kitty-monitor" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.kitty.monitor.KittyMonitorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KittyProducerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kitty-producer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.kitty.producer.KittyProducerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KittyZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kitty-zuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.kitty.zuul.KittyZuulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
