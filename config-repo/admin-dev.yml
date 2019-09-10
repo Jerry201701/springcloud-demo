@@ -1,0 +1,3 @@
+admin:
+  config:
+    test: bus-kafka001

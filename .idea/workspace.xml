@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff94dd61-b882-4fed-8c88-50b3e926cb8a" name="Default Changelist" comment="" />
+    <list default="true" id="ff94dd61-b882-4fed-8c88-50b3e926cb8a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/kitty-consumer/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -71,8 +73,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/kitty-config/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-135">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            <state relative-caret-position="162">
+              <caret line="15" column="66" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -171,16 +173,15 @@
       <option name="presentableId" value="Default" />
       <updated>1568082601271</updated>
       <workItem from="1568082603712" duration="3146000" />
-      <workItem from="1568095233761" duration="2313000" />
+      <workItem from="1568095233761" duration="2607000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5459000" />
+    <option name="totallyTimeSpent" value="5753000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2392886" />
@@ -263,8 +264,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/kitty-config/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-135">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="162">
+          <caret line="15" column="66" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
         </state>
       </provider>
     </entry>

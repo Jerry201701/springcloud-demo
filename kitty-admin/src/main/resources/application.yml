@@ -4,8 +4,7 @@ server:
     max-threads: 1000
     min-spare-threads: 30
   port: 8001
-    #context-path: /kitty-admin
-# DataSource
+
 spring:
   datasource:
     name: druidDataSource
@@ -33,11 +32,6 @@ spring:
   application:
     name: kitty-admin
   cloud:
-#    consul:
-#      host: localhost
-#      port: 8500
-#      discovery:
-#        serviceName: ${spring.application.name}	# 注册到consul的服务名称
     zookeeper:
       connect-string: 123.206.64.103
       discovery:
