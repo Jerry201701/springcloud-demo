@@ -35,6 +35,11 @@
 	        <groupId>org.springframework.cloud</groupId>
 	        <artifactId>spring-cloud-starter-consul-discovery</artifactId>
 	    </dependency>
+		<!--zookeeper依赖-->
+		<dependency>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-starter-zookeeper-discovery</artifactId>
+		</dependency>
 	</dependencies>
 
 	<dependencyManagement>

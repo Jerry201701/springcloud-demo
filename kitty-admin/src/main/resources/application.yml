@@ -33,7 +33,7 @@ spring:
     name: kitty-admin
   cloud:
     zookeeper:
-      connect-string: 123.206.64.103
+      connect-string: 123.206.64.103:2181
       discovery:
         enabled: true
         root: /admin-service
@@ -41,8 +41,6 @@ spring:
     admin:
       client:
         url: "http://localhost:8000"
-
-
 
 # 开放健康检查接口
 management:

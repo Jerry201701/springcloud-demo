@@ -2,10 +2,9 @@ server:
   port: 8000
 spring:
   application:
-    name: kitty-monitor
+    name: monitor-service
   cloud:
-    consul:
-      host: localhost
-      port: 8500
+    zookeeper:
       discovery:
-        serviceName: ${spring.application.name}	# 注册到consul的服务名称
+        enabled: true
+        root: /monitor

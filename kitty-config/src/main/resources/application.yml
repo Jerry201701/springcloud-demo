@@ -2,13 +2,13 @@ server:
   port: 8020
 spring:
   application:
-    name: spring-config
+    name: config-service
   cloud:
     zookeeper:
-      connect-string: 123.206.64.103
+      connect-string: 123.206.64.103:2181
       discovery:
         enabled: true
-        root: /admin-service
+        root: /config
     config:
       label: master  # git仓库分支
       server:

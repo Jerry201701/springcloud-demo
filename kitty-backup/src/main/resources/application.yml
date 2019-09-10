@@ -4,13 +4,13 @@ server:
 # spring boot admin
 spring:
   application:
-    name: kitty-backup
+    name: backup-service
   cloud:
-    consul:
-      host: localhost
-      port: 8500
+    zookeeper:
       discovery:
-        serviceName: ${spring.application.name}	# 注册到consul的服务名称
+        enabled: true
+        root: /backup
+
   boot:
     admin:
       client:
