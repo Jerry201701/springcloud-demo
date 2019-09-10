@@ -123,6 +123,11 @@
 			<artifactId>kitty-core</artifactId>
 			<version>1.0.0</version>
 		</dependency>
+		<!--zookeeper依赖-->
+		<dependency>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-starter-zookeeper-discovery</artifactId>
+		</dependency>
 	</dependencies>
 	
 	<!--srping cloud-->

@@ -33,15 +33,23 @@ spring:
   application:
     name: kitty-admin
   cloud:
-    consul:
-      host: localhost
-      port: 8500
+#    consul:
+#      host: localhost
+#      port: 8500
+#      discovery:
+#        serviceName: ${spring.application.name}	# 注册到consul的服务名称
+    zookeeper:
+      connect-string: 123.206.64.103
       discovery:
-        serviceName: ${spring.application.name}	# 注册到consul的服务名称
+        enabled: true
+        root: /admin-service
   boot:
     admin:
       client:
         url: "http://localhost:8000"
+
+
+
 # 开放健康检查接口
 management:
   endpoints:

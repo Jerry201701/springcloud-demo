@@ -2,13 +2,13 @@ server:
   port: 8020
 spring:
   application:
-    name: kitty-config
+    name: spring-config
   cloud:
-    consul:
-      host: localhost
-      port: 8500
+    zookeeper:
+      connect-string: 123.206.64.103
       discovery:
-        serviceName: ${spring.application.name}	# 注册到consul的服务名称
+        enabled: true
+        root: /admin-service
     config:
       label: master  # git仓库分支
       server:
